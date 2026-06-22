@@ -19,12 +19,15 @@
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
 
+</div>
 
 ## Screenshot
 
 <div align="center">
 
 <img src="https://github.com/Agebs-Friends/.github/blob/main/profile/123.jpg" alt="App Screenshot" width="800">
+
+</div>
 
 ## News
 
