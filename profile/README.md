@@ -16,15 +16,11 @@
 
 # Project Name: Agents Friends Algo
 
-## Overview
-
-Short project description here.
-
 ## Screenshot
 
 <div align="center">
 
-<img src="assets/screenshot.png" alt="App Screenshot" width="800">
+<img src="https://github.com/Agebs-Friends/.github/blob/main/profile/123.jpg" alt="App Screenshot" width="800">
 
 ## News
 
