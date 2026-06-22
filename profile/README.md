@@ -20,7 +20,6 @@
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
 
 
-
 ## Screenshot
 
 <div align="center">
@@ -43,7 +42,7 @@
 
 ## Download
 
-<div align="center">
+<div align="left">
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
 
