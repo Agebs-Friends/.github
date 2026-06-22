@@ -10,26 +10,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
 
-<br>
-
-[English](README.md) |
-[Deutsch](README_de.md) |
-[Español](README_es.md) |
-[Français](README_fr.md) |
-[Português](README_pt.md) |
-[Русский](README_ru.md) |
-[中文](README_zh.md)
-
 </div>
 
 ---
 
-# Project Name: Short SEO Title
-
-## News
-
-- **[2026-06]** Project v1.0 released with Windows support, improved UI, stable installer, and updated documentation.
-- **[2026-05]** Added new features, bug fixes, and performance improvements.
+# Project Name: Agents Friends Algo
 
 ## Overview
 
@@ -40,6 +25,11 @@ Short project description here.
 <div align="center">
 
 <img src="assets/screenshot.png" alt="App Screenshot" width="800">
+
+## News
+
+- **[2026-06]** Project v1.0 released with Windows support, improved UI, stable installer, and updated documentation.
+- **[2026-05]** Added new features, bug fixes, and performance improvements.
 
 </div>
 
