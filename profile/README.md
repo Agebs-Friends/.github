@@ -4,7 +4,6 @@
 
 <br>
 
-[![arXiv](https://img.shields.io/badge/arXiv-0000.00000-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YOUR_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-Community-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL)
@@ -14,7 +13,13 @@
 
 ---
 
-# Project Name: Agents Friends Algo
+## Download
+
+<div align="center">
+
+[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+
+
 
 ## Screenshot
 
