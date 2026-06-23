@@ -34,8 +34,6 @@
 - **[2026-06]** Project v1.0 released with Windows support, improved UI, stable installer, and updated documentation.
 - **[2026-05]** Added new features, bug fixes, and performance improvements.
 
-</div>
-
 
 ## Необходимые API
 TradingAgents поддерживает нескольких провайдеров LLM. Установите API-ключ для выбранного провайдера:
