@@ -36,23 +36,28 @@
 
 </div>
 
-## Features
 
-- Feature one
-- Feature two
-- Feature three
-- Feature four
+## Необходимые API
+TradingAgents поддерживает нескольких провайдеров LLM. Установите API-ключ для выбранного провайдера:
 
-## Download
+export OPENAI_API_KEY=...          # OpenAI (GPT)
+export GOOGLE_API_KEY=...          # Google (Gemini)
+export ANTHROPIC_API_KEY=...       # Anthropic (Claude)
+export XAI_API_KEY=...             # xAI (Grok)
+export DEEPSEEK_API_KEY=...        # DeepSeek
+export DASHSCOPE_API_KEY=...       # Qwen — International (dashscope-intl.aliyuncs.com)
+export DASHSCOPE_CN_API_KEY=...    # Qwen — China (dashscope.aliyuncs.com)
+export ZHIPU_API_KEY=...           # GLM via Z.AI (international)
+export ZHIPU_CN_API_KEY=...        # GLM via BigModel (China, open.bigmodel.cn)
+export MINIMAX_API_KEY=...         # MiniMax — Global (api.minimax.io)
+export MINIMAX_CN_API_KEY=...      # MiniMax — China (api.minimaxi.com)
+export OPENROUTER_API_KEY=...      # OpenRouter
+export ALPHA_VANTAGE_API_KEY=...   # Alpha Vantage
+
+## Installation
 
 <div align="left">
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
 
 </div>
-
-## Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
