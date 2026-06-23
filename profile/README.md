@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Agebs-Friends/.github/blob/main/profile/photo_2026-06-22_23-48-50.jpg" alt="Project Logo" width="720">
+<img src="https://github.com/Agebs-Friends/.github/blob/main/profile/photo_2026-06-22_23-48-50.jpg" alt="Project Logo" width="920">
 
 <br>
 
