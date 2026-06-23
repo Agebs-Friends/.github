@@ -35,22 +35,54 @@
 - **[2026-05]** Added new features, bug fixes, and performance improvements.
 
 
-## Необходимые API
-TradingAgents поддерживает нескольких провайдеров LLM. Установите API-ключ для выбранного провайдера:
+## Required API Keys
 
-export OPENAI_API_KEY=...          # OpenAI (GPT)
-export GOOGLE_API_KEY=...          # Google (Gemini)
-export ANTHROPIC_API_KEY=...       # Anthropic (Claude)
-export XAI_API_KEY=...             # xAI (Grok)
-export DEEPSEEK_API_KEY=...        # DeepSeek
-export DASHSCOPE_API_KEY=...       # Qwen — International (dashscope-intl.aliyuncs.com)
-export DASHSCOPE_CN_API_KEY=...    # Qwen — China (dashscope.aliyuncs.com)
-export ZHIPU_API_KEY=...           # GLM via Z.AI (international)
-export ZHIPU_CN_API_KEY=...        # GLM via BigModel (China, open.bigmodel.cn)
-export MINIMAX_API_KEY=...         # MiniMax — Global (api.minimax.io)
-export MINIMAX_CN_API_KEY=...      # MiniMax — China (api.minimaxi.com)
-export OPENROUTER_API_KEY=...      # OpenRouter
-export ALPHA_VANTAGE_API_KEY=...   # Alpha Vantage
+TradingAgents supports multiple LLM and data providers. Configure the API keys for the services you plan to use:
+
+```bash
+# OpenAI (GPT)
+export OPENAI_API_KEY="..."
+
+# Google (Gemini)
+export GOOGLE_API_KEY="..."
+
+# Anthropic (Claude)
+export ANTHROPIC_API_KEY="..."
+
+# xAI (Grok)
+export XAI_API_KEY="..."
+
+# DeepSeek
+export DEEPSEEK_API_KEY="..."
+
+# Qwen (International)
+export DASHSCOPE_API_KEY="..."
+
+# Qwen (China)
+export DASHSCOPE_CN_API_KEY="..."
+
+# GLM via Z.AI (International)
+export ZHIPU_API_KEY="..."
+
+# GLM via BigModel (China)
+export ZHIPU_CN_API_KEY="..."
+
+# MiniMax (Global)
+export MINIMAX_API_KEY="..."
+
+# MiniMax (China)
+export MINIMAX_CN_API_KEY="..."
+
+# OpenRouter
+export OPENROUTER_API_KEY="..."
+
+# Alpha Vantage (Market Data)
+export ALPHA_VANTAGE_API_KEY="..."
+```
+
+> Only configure the providers you intend to use. At least one LLM provider and a market data provider are recommended.
+
+
 
 ## Installation
 
