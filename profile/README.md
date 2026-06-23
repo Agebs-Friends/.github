@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Agebs-Friends/.github/blob/main/profile/123.jpg" alt="App Screenshot" width="800">
+<img src="https://github.com/Agebs-Friends/.github/blob/main/profile/123.jpg" alt="App Screenshot" width="1000">
 
 </div>
 
